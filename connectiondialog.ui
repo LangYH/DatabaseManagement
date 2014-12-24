@@ -102,7 +102,11 @@
       </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="databaseNameEdit"/>
+      <widget class="QLineEdit" name="databaseNameEdit">
+       <property name="text">
+        <string>imageset</string>
+       </property>
+      </widget>
      </item>
     </layout>
    </item>
@@ -119,7 +123,11 @@
       </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="userNameEdit"/>
+      <widget class="QLineEdit" name="userNameEdit">
+       <property name="text">
+        <string>lang</string>
+       </property>
+      </widget>
      </item>
     </layout>
    </item>
@@ -136,7 +144,11 @@
       </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="passwordEdit"/>
+      <widget class="QLineEdit" name="passwordEdit">
+       <property name="text">
+        <string>lang</string>
+       </property>
+      </widget>
      </item>
     </layout>
    </item>
